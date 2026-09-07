@@ -37,3 +37,4 @@ Total Sales = SUM(Financials[Sales])
 
 -- Total de Unidades Vendidas
 Total Units Sold = SUM(Financials[Units Sold])
+![Demonstração do Dashboard](dashboard.png)
