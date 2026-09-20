@@ -26,6 +26,12 @@ A página criada do relatório é composta pelos seguintes elementos visuais:
 
 ---
 
+## 👨‍💻 Autor
+Desenvolvido por **André Luiz** durante a trilha de Power BI da **DIO**.  
+[GitHub](https://github.com/aluiz-91)
+
+---
+
 ## 💡 Medidas DAX Utilizadas
 
 ```dax
@@ -38,16 +44,3 @@ Total Sales = SUM(Financials[Sales])
 -- Total de Unidades Vendidas
 Total Units Sold = SUM(Financials[Units Sold])
 ![Demonstração do Dashboard](dashboard.png)
-
----
-
-
-
-
-
-
-
-
-## 👨‍💻 Autor
-Desenvolvido por **André Luiz** durante a trilha de Power BI da **DIO**.  
-[GitHub](https://github.com/aluiz-91)
