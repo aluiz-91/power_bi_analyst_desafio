@@ -39,6 +39,8 @@ Total Sales = SUM(Financials[Sales])
 Total Units Sold = SUM(Financials[Units Sold])
 ![Demonstração do Dashboard](dashboard.png)
 
+---
+
 ## 👨‍💻 Autor
 Desenvolvido por **André Luiz** durante a trilha de Power BI da **DIO**.  
 [GitHub](https://github.com/aluiz-91)
